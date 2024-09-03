@@ -82,13 +82,3 @@ ul {
     height: 315px;
     border-radius: 8px;
 }
-
-@media (max-width: 600px) {
-    nav ul {
-        flex-direction: column;
-    }
-    .video iframe {
-        width: 100%;
-        height: auto;
-    }
-}
